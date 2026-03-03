@@ -1,0 +1,12 @@
+{
+  "name": "Very Good Claude Marketplace",
+  "owner": {
+    "name": "Very Good Ventures",
+    "email": "hello@verygood.ventures"
+  },
+  "metadata": {
+    "description": "Official VGV public Claude Code marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
