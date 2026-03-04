@@ -2,11 +2,25 @@
   "name": "Very Good Claude Marketplace",
   "owner": {
     "name": "Very Good Ventures",
-    "email": "hello@verygood.ventures"
+    "email": "hello@verygood.ventures",
+    "url": "https://verygood.ventures"
   },
   "metadata": {
-    "description": "Official VGV public Claude Code marketplace",
+    "description": "Official VGV Claude Code marketplace",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "very-good-ai-flutter-plugin",
+      "description": "Claude Code plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures",
+      "version": "0.0.1",
+      "homepage": "https://github.com/VeryGoodOpenSource/very_good_ai_flutter_plugin",
+      "email": "hello@verygood.ventures",
+      "author": {
+        "name": "Very Good Ventures",
+        "email": "hello@verygood.ventures",
+        "url": "https://verygood.ventures"
+      }
+    }
+  ]
 }
