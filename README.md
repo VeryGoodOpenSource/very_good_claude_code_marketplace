@@ -20,7 +20,7 @@ Inside Claude:
 
 | Plugin | Description |
 |---|---|
-| [very_good_ai_flutter_plugin][very_good_ai_flutter_plugin_link] | Claude Code plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures |
+| [very-good-ai-flutter-plugin][very_good_ai_flutter_plugin_link] | Claude Code plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures |
 
 [claude_code_link]: https://claude.ai/code
 [vgv_link]: https://verygood.ventures
