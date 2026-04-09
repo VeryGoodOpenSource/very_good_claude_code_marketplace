@@ -21,6 +21,7 @@ Inside Claude:
 | Plugin | Description |
 |---|---|
 | [vgv-ai-flutter-plugin][very_good_ai_flutter_plugin_link] | Claude Code plugin to enhance and accelerate Flutter & Dart development, built by Very Good Ventures |
+| [vgv-wingspan][vgv-wingspan] | AI-native workflows following Very Good Ventures best practices. |
 
 [claude_code_link]: https://claude.ai/code
 [vgv_link]: https://verygood.ventures
@@ -29,3 +30,4 @@ Inside Claude:
 [logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
 [very_good_ai_flutter_plugin_link]: https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin
+[vgv-wingspan]: https://github.com/VeryGoodOpenSource/vgv-wingspan
