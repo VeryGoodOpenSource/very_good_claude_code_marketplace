@@ -31,10 +31,10 @@
       "version": "0.0.1",
       "source": {
         "source": "github",
-        "repo": "VeryGoodOpenSourcevgv-wingpsan"
+        "repo": "VeryGoodOpenSource/vgv-wingpsan"
       },
-      "repository": "https://github.com/VeryGoodOpenSourcevgv-wingpsan",
-      "homepage": "https://github.com/VeryGoodOpenSourcevgv-wingpsan",
+      "repository": "https://github.com/VeryGoodOpenSource/vgv-wingpsan",
+      "homepage": "https://github.com/VeryGoodOpenSource/vgv-wingpsan",
       "author": {
         "name": "Very Good Ventures",
         "email": "hello@verygood.ventures"
