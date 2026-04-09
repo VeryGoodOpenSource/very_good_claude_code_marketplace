@@ -24,6 +24,21 @@
         "name": "Very Good Ventures",
         "email": "hello@verygood.ventures"
       }
+    },
+    {
+      "name": "vgv-wingspan",
+      "description": "VGV Wingspan - AI-native workflows following Very Good Ventures best practices.",
+      "version": "0.0.1",
+      "source": {
+        "source": "github",
+        "repo": "VeryGoodOpenSourcevgv-wingpsan"
+      },
+      "repository": "https://github.com/VeryGoodOpenSourcevgv-wingpsan",
+      "homepage": "https://github.com/VeryGoodOpenSourcevgv-wingpsan",
+      "author": {
+        "name": "Very Good Ventures",
+        "email": "hello@verygood.ventures"
+      }
     }
   ]
 }
