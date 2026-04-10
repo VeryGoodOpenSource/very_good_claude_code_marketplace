@@ -1,9 +1,9 @@
 name: Test Plugin Installation
 
 on:
-  push:
   pull_request:
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   test-install:
