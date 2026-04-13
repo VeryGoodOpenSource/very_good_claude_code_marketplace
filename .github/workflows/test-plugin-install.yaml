@@ -1,0 +1,31 @@
+name: Test Plugin Installation
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-install:
+    name: Test plugin installation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configure git to use HTTPS
+        run: git config --global url."https://github.com/".insteadOf "git@github.com:"
+
+      - name: Add marketplace
+        run: claude plugin marketplace add ./
+
+      - name: List marketplaces
+        run: claude plugin marketplace list
+
+      - name: Install vgv-ai-flutter-plugin
+        run: claude plugin install vgv-ai-flutter-plugin@very-good-claude-code-marketplace --scope user
+
+      - name: Install vgv-wingspan
+        run: claude plugin install vgv-wingspan@very-good-claude-code-marketplace --scope user
